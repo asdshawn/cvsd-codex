@@ -1,0 +1,27 @@
+core.v
+hw2_fp_add.v
+hw2_fp_sub.v
+hw2_fp_mul.v
+hw2_fp_div.v
+hw2_fp_cmp.v
+hw2_fp_dot4.v
+hw2_fp_edge.v
+hw2_fp_difference_sign.v
+hw2_vertex_transform.v
+hw2_triangle_setup.v
+hw2_pixel_lane.v
+hw2_pixel_center_lut.v
+hw2_coverage_grid.v
+hw2_product_pixel_lane.v
+hw2_bbox.v
+hw2_active_pixel_lane.v
+hw2_raster_worker.v
+hw2_bitmap_row.v
+hw2_frame_row.v
+hw2_frame_writer.v
+hw2_priority_row.v
+hw2_cache_bank.v
+hw2_banked_cache.v
+hw2_dispatch_bank.v
+-y /usr/cad/synopsys/synthesis/2022.12/dw/sim_ver
++libext+.v
